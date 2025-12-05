@@ -66,7 +66,7 @@ I applied the following bucket policy:
           "Effect": "Allow",
           "Principal": "*",
           "Action": "s3:GetObject",
-          "Resource": "arn:aws:s3:::gracetech-bucket/*"
+          "Resource": "arn:aws:s3:::gracetech-s3-bucket/*"
         }
       ]
     }
