@@ -55,7 +55,8 @@ Saved the changes.
 
 B. Add a Bucket Policy to Allow Public Access
 AWS requires explicit permission for public access.
-I applied the following bucket policy (replacing your-bucket-name with my actual bucket name):
+I applied the following bucket policy:
+
 
     {
       "Version": "2012-10-17",
